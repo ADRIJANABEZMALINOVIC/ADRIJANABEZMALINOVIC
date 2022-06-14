@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkcyan;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 25px;
+}
+.paragraf_2 {color: darkmagenta; background-color: rgba(255, 255, 255, 0,5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0,9);
+	padding:20px;
+	margin:20px;
+	width:50%;
+}
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkcyan;
+}
+h3 {
+	color: darkslateblue
+}
+h2 {
+	color: darkorchid
+}
+
+span {color:rgb(255, 0, 255);}
+.pozadina{
+	background-image: url("slike/marine-3052592_960_720.jpg")
+}
+.drugapozadina {
+	background-color: floralwhite;
+}
+
+a:link {
+	
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+a:hover {
+	background-color: darkgray;
+}
+img {
+	height: 200px;
+}
+	
